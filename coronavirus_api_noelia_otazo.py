@@ -46,7 +46,7 @@ try:
             sumario()
 
         elif opcion==2:
-            datos_pais()1
+            datos_pais()
 
         elif opcion==3:
             print("bip bip")
