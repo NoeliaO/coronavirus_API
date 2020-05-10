@@ -34,12 +34,8 @@ try:
         print("Covid-19")
         print("1. Sumario de casos actualizado diariamente.")
         print("2. Datos por País.")
-        print("3. Busqueda de provincia y población mediante municipio.")
-        print("4. Busqueda de municipios mediante Mancomunidad.")
-        print("5. Enumeración de municipios mediante provincia.")
-        print("6. Busqueda de municipios por numero de habitantes.")
-        print("7. Lista de municipios por nombre y numero de habitantes")
-        print("8. Salir")
+        print("3. .")
+        print("4. Salir")
         opcion = int(input())
         
         if opcion==1:
